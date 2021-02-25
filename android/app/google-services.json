@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905390801227",
+    "project_id": "flash-chat-83905",
+    "storage_bucket": "flash-chat-83905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905390801227:android:50af6bec687a6c4f9b28ce",
+        "android_client_info": {
+          "package_name": "co.zivani.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905390801227-0tje8jdu0933evg9rgpohv4drcof0t2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-y-VO1EfMGAVMCm29bpUh_2kspNhdiTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905390801227-0tje8jdu0933evg9rgpohv4drcof0t2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
